@@ -1,0 +1,1 @@
+{"first group":{"groupname":"first group","creator":"super","admins":["super"],"asis":["super"],"channels":{"yes":{"channelname":"yes","members":["super"],"admins":["super"]}},"members":["super"]}}
